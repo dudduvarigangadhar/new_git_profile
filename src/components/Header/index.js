@@ -1,7 +1,7 @@
 import {Component} from 'react'
 import {Link} from 'react-router-dom'
 import './index.css'
-import ProfileContext from '../../ProfileContext'
+// import ProfileContext from '../../ProfileContext'
 
 class Header extends Component {
   state = {activeStatus: false}

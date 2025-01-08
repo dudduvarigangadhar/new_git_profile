@@ -1,3 +1,4 @@
+/* old code  */
 .background-container {
   background-color: #0f172a;
   min-height: 100vh;
@@ -67,6 +68,7 @@
   background-color: #4f4e4c;
   width: 54px;
   height: 46px;
+  border: none;
   border-radius: 0px 4px 4px 0px;
   padding: 8px 18px 8px 16px;
   gap: 10px;
